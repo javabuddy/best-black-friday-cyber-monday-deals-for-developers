@@ -1,8 +1,6 @@
-# best-black-friday-cyber-monday-deals-for-developers
 I am curating best Black Friday and Cyber Monday deals for developers, mostly learning resource to prepare for coding and system design interviews as well as courses, books, and resources to level up their tech skills and learn new programming language, framework, and tech skills. 
 
-# Best Black Friday & Cyber Monday Deals for Developers
-
+# Best Black Friday & Cyber Monday Deals for Developers, Software Engineers and Content Creators 2026
 A curated list of the best learning platforms, developer tools, interview prep resources, and tech books on sale this Black Friday & Cyber Monday.
 
 ---
@@ -34,6 +32,8 @@ A curated list of the best learning platforms, developer tools, interview prep r
 | Cloud & DevOps | Whizlabs Black Friday | 70% OFF | [Whizlabs](https://shareasale.com/r.cfm?b=413930&u=880419&m=43514&urllink=https%3A%2F%2Fwww%2Ewhizlabs%2Ecom%2F&afftrack=) |
 
 ---
+
+
 
 ## 🔥 Detailed List With Short Descriptions
 
@@ -103,6 +103,50 @@ Why join: Hands-on labs and certifications for AWS, Azure, DevOps, and GCP.
 
 
 ---
+
+
+---
+
+## ✍️ Best Black Friday Deals for Content Creators
+
+Tools and platforms to create, sell, and grow courses, blogs, and educational content.
+
+| Platform | Deal | Details | Link |
+| --- | --- | --- | --- |
+| FirstPromoter | 50% OFF for 6 months | Best deal of the year for affiliate marketing & referral programs. New customers only. Applied automatically at checkout. | [FirstPromoter](https://firstpromoter.com) |
+| LearnWorlds | Black Friday Offers (starting Nov 23) | Build and sell online courses & academies. Refer 1 paying customer by Nov 30 for an extra $20–$50 bonus + 30% lifetime commission. | [LearnWorlds](https://learnworlds.grsm.io/javarevisited) |
+| Codecademy | 60% OFF Pro Annual & Student Plans | Code: `BF2026` • Valid: Nov 19–27 | [Codecademy](https://www.codecademy.com) |
+| SEO Writing | BLACKFRIDAY40 (Double Discount) | 25% off yearly + extra 40% off (code: `BLACKFRIDAY40`). Now writes & publishes full blog posts automatically. | [SEO Writing](https://seowriting.ai?fp_ref=javin38) |
+
+### Detailed Notes
+
+#### FirstPromoter — 50% Off for 6 Months
+Affiliate and referral marketing platform.  
+**Offer:** 50% off for 6 months for new customers.  
+**Dates:** Nov 23 – Dec 4, 2026.  
+Applied automatically at checkout (no coupon code needed).
+
+#### LearnWorlds — Course Platform
+All-in-one platform to create, market, and sell online courses.  
+**Black Friday offers** start November 23.  
+**Affiliate bonus:** Refer 1 new paying customer by Nov 30 for an extra $20–$50 on top of 30% recurring commission.  
+[Start free trial or share →](https://learnworlds.grsm.io/javarevisited)
+
+#### Codecademy — 60% Off
+Interactive coding platform.  
+**Code:** `BF2026`  
+**Valid:** November 19–27, 2026  
+Applies to Pro Annual & Student Plans.
+
+#### SEO Writing — Automated Blogging
+AI tool that researches, writes, and publishes SEO-optimized blog posts (WordPress/Shopify).  
+**Black Friday code:** `BLACKFRIDAY40`  
+**Discount:** 25% off yearly plans + extra 40% off (stacks on renewals).  
+Ends December 7.  
+[Try SEO Writing →](https://seowriting.ai?fp_ref=javin38)
+
+---
+
 
 ## ⭐ Contributing
 Feel free to open a PR if you find new relevant developer deals.
