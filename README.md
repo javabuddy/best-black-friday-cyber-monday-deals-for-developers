@@ -113,7 +113,7 @@ Tools and platforms to create, sell, and grow courses, blogs, and educational co
 
 | Platform | Deal | Details | Link |
 | --- | --- | --- | --- |
-| FirstPromoter | 50% OFF for 6 months | Best deal of the year for affiliate marketing & referral programs. New customers only. Applied automatically at checkout. | [FirstPromoter](https://firstpromoter.com) |
+| FirstPromoter | 50% OFF for 6 months | Best deal of the year for affiliate marketing & referral programs. New customers only. Applied automatically at checkout. | [FirstPromoter](https://firstpromoter.com/?fpr=javarevisited) |
 | LearnWorlds | Black Friday Offers (starting Nov 23) | Build and sell online courses & academies. Refer 1 paying customer by Nov 30 for an extra $20–$50 bonus + 30% lifetime commission. | [LearnWorlds](https://learnworlds.grsm.io/javarevisited) |
 | Codecademy | 60% OFF Pro Annual & Student Plans | Code: `BF2026` • Valid: Nov 19–27 | [Codecademy](https://www.codecademy.com) |
 | SEO Writing | BLACKFRIDAY40 (Double Discount) | 25% off yearly + extra 40% off (code: `BLACKFRIDAY40`). Now writes & publishes full blog posts automatically. | [SEO Writing](https://seowriting.ai?fp_ref=javin38) |
@@ -125,6 +125,7 @@ Affiliate and referral marketing platform.
 **Offer:** 50% off for 6 months for new customers.  
 **Dates:** Nov 23 – Dec 4, 2026.  
 Applied automatically at checkout (no coupon code needed).
+[**Click Here to Get Discount**](https://firstpromoter.com/?fpr=javarevisited)
 
 #### LearnWorlds — Course Platform
 All-in-one platform to create, market, and sell online courses.  
