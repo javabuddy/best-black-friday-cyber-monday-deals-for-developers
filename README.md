@@ -30,6 +30,7 @@ A curated list of the best learning platforms, developer tools, interview prep r
 | Book | Head First Software Architecture | — | [Head First Software Architecture](https://www.amazon.com/dp/1098134354?tag=javamysqlanta-20) |
 | Frontend | Frontend Masters Black Friday | Special Offer | [Frontend Masters](https://frontendmasters.com/join/?code=javarevisited&utm_source=javarevisited&utm_medium=Article&utm_campaign=Affiliate) |
 | Cloud & DevOps | Whizlabs Black Friday | 70% OFF | [Whizlabs](https://shareasale.com/r.cfm?b=413930&u=880419&m=43514&urllink=https%3A%2F%2Fwww%2Ewhizlabs%2Ecom%2F&afftrack=) |
+| Developer Tools | Nuelink Yearly Plans | 50% OFF | [Nuelink](https://nuelink.com/?utm_source=github_javabuddy&utm_medium=referral&utm_campaign=bfcm_2026) |
 
 ---
 
@@ -99,6 +100,9 @@ Why join: Elite frontend & JavaScript training from industry experts.
 
 ### 21. **[Whizlabs — 70% OFF](https://shareasale.com/r.cfm?b=413930&u=880419&m=43514&urllink=https%3A%2F%2Fwww%2Ewhizlabs%2Ecom%2F&afftrack=)**
 Why join: Hands-on labs and certifications for AWS, Azure, DevOps, and GCP.
+
+### 22. **[Nuelink Yearly Plans - 50% OFF](https://nuelink.com/?utm_source=github_javabuddy&utm_medium=referral&utm_campaign=bfcm_2026)**
+Why join: MCP server lets ChatGPT and Claude draft and schedule posts on 12 platforms.
 
 
 
