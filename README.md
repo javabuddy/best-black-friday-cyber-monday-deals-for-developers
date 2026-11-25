@@ -117,6 +117,7 @@ Tools and platforms to create, sell, and grow courses, blogs, and educational co
 | LearnWorlds | Black Friday Offers (starting Nov 23) | Build and sell online courses & academies. Refer 1 paying customer by Nov 30 for an extra $20–$50 bonus + 30% lifetime commission. | [LearnWorlds](https://learnworlds.grsm.io/javarevisited) |
 | Codecademy | 60% OFF Pro Annual & Student Plans | Code: `BF2026` • Valid: Nov 19–27 | [Codecademy](https://www.codecademy.com) |
 | SEO Writing | BLACKFRIDAY40 (Double Discount) | 25% off yearly + extra 40% off (code: `BLACKFRIDAY40`). Now writes & publishes full blog posts automatically. | [SEO Writing](https://seowriting.ai?fp_ref=javin38) |
+| BacklinkGenie | 30% OFF monthly / 50% OFF yearly | AI link-building agent with an MCP server: finds posts where your product belongs, writes each pitch for your approval, sends and follows up, and checks won links stay live. Auto-applied (`BFCM30` / `BFCM50`), every billing cycle while subscribed • Valid: Nov 24 – Dec 31 | [BacklinkGenie](https://backlinkgenie.com/black-friday/?utm_source=javabuddy&utm_medium=deal&utm_campaign=bfcm2026) |
 
 ### Detailed Notes
 
