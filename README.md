@@ -29,6 +29,7 @@ A curated list of the best learning platforms, developer tools, interview prep r
 | Learning Platform | Zero To Mastery Academy | 66% OFF | [ZTM Academy](https://academy.zerotomastery.io/a/aff_n13k1nmc/external?affcode=441520_zytgk2dn) |
 | Book | Head First Software Architecture | — | [Head First Software Architecture](https://www.amazon.com/dp/1098134354?tag=javamysqlanta-20) |
 | Frontend | Frontend Masters Black Friday | Special Offer | [Frontend Masters](https://frontendmasters.com/join/?code=javarevisited&utm_source=javarevisited&utm_medium=Article&utm_campaign=Affiliate) |
+| AI Tools | Screenpipe — searchable screen & audio memory, skills and workflows for AI agents | 20% OFF first year of annual plans | [Screenpipe](https://screenpipe.com/black-friday?utm_source=github&utm_medium=deal-list&utm_campaign=black_friday_2026&utm_content=javabuddy) |
 | Cloud & DevOps | Whizlabs Black Friday | 70% OFF | [Whizlabs](https://shareasale.com/r.cfm?b=413930&u=880419&m=43514&urllink=https%3A%2F%2Fwww%2Ewhizlabs%2Ecom%2F&afftrack=) |
 
 ---
@@ -106,6 +107,9 @@ Why join: Hands-on labs and certifications for AWS, Azure, DevOps, and GCP.
 
 
 ---
+
+### 22. **[Screenpipe Annual Plan — 20% OFF](https://screenpipe.com/black-friday?utm_source=github&utm_medium=deal-list&utm_campaign=black_friday_2026&utm_content=javabuddy-detail)**
+Local screen and audio capture turned into searchable memory, reusable skills and workflows for Claude, Codex, Cursor and teams (macOS, Windows, Linux). Basic $250 → $200, Business $500 → $400/seat for the first year; no code needed.
 
 ## ✍️ Best Black Friday Deals for Content Creators
 
