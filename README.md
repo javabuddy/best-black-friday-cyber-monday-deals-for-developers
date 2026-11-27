@@ -30,6 +30,7 @@ A curated list of the best learning platforms, developer tools, interview prep r
 | Book | Head First Software Architecture | — | [Head First Software Architecture](https://www.amazon.com/dp/1098134354?tag=javamysqlanta-20) |
 | Frontend | Frontend Masters Black Friday | Special Offer | [Frontend Masters](https://frontendmasters.com/join/?code=javarevisited&utm_source=javarevisited&utm_medium=Article&utm_campaign=Affiliate) |
 | Cloud & DevOps | Whizlabs Black Friday | 70% OFF | [Whizlabs](https://shareasale.com/r.cfm?b=413930&u=880419&m=43514&urllink=https%3A%2F%2Fwww%2Ewhizlabs%2Ecom%2F&afftrack=) |
+| Developer APIs | Context.dev | 30% OFF new purchases of paid plans for 1 year; auto-applied, no code; ends Dec 1, 2026 | [Context.dev](https://www.context.dev/pricing) |
 
 ---
 
