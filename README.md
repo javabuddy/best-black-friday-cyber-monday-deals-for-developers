@@ -8,7 +8,7 @@ A curated list of the best learning platforms, developer tools, interview prep r
 ## 🎯 Table of Deals by Category
 
 | Category | Deal | Discount | Link |
-|---------|-------|----------|------|
+| :--- | :--- | :--- | :--- |
 | System Design | ByteByteGo Lifetime Plan | 50% OFF | [ByteByteGo](https://bytebytego.com/pricing?fpr=javarevisited) |
 | Coding Interview | Codemia Lifetime Plan | 60% OFF | [Codemia](https://codemia.io/pricing?via=javarevisited) |
 | Interview Prep | Exponent Annual Plan | 70% OFF | [Exponent](https://www.tryexponent.com/upgrade/?ref=javinpaul2) |
@@ -28,8 +28,16 @@ A curated list of the best learning platforms, developer tools, interview prep r
 | Nanodegree | Udacity | 50% OFF | [Udacity](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&offerid=1607984.3&type=3&subid=0) |
 | Learning Platform | Zero To Mastery Academy | 66% OFF | [ZTM Academy](https://academy.zerotomastery.io/a/aff_n13k1nmc/external?affcode=441520_zytgk2dn) |
 | Book | Head First Software Architecture | — | [Head First Software Architecture](https://www.amazon.com/dp/1098134354?tag=javamysqlanta-20) |
-| Frontend | Frontend Masters Black Friday | Special Offer | [Frontend Masters](https://frontendmasters.com/join/?code=javarevisited&utm_source=javarevisited&utm_medium=Article&utm_campaign=Affiliate) |
+| Frontend | Frontend Masters Black Friday (Code: `blackfriday`) | Special Offer | [Frontend Masters](https://frontendmasters.com/join/?code=javarevisited&utm_source=javarevisited&utm_medium=Article&utm_campaign=Affiliate) |
 | Cloud & DevOps | Whizlabs Black Friday | 70% OFF | [Whizlabs](https://shareasale.com/r.cfm?b=413930&u=880419&m=43514&urllink=https%3A%2F%2Fwww%2Ewhizlabs%2Ecom%2F&afftrack=) |
+| Java & JVM | Java Specialists Superpack (Code: `BLACK-FRIDAY-25`) | Special Offer | [Java Specialists](https://javaspecialists.teachable.com/p/superpack?affcode=92815_johrd7r8) |
+| AI Interview Prep | Bugfree.ai | 25% OFF | [Bugfree.ai](https://www.bugfree.ai/?via=javarevisited) |
+| AI Productivity | Fenzo.ai | Special Offer | [Fenzo.ai](https://fenzo.ai/?ref=YdO7) |
+| Tech Books & Courses | ExpertEdge by Packt | 50% OFF | [ExpertEdge](https://www.expertedge.org/?utm_source=javarevisited&utm_medium=blog) |
+| SaaS & Referral Tools | FirstPromoter | 50% OFF | [FirstPromoter](https://firstpromoter.com/?fpr=9riekb) |
+| Software Architecture | Top Developer Academy (iSAQB® CPSA-F) | 20% OFF | [Top Developer Academy](https://topdeveloperacademy.com/certified-professional-for-software-architecture-foundational-level-training-cpsa-f?fpr=javarevisited) |
+| AI Engineering | Towards AI Academy (Code: `BLACKFRIDAY`) | 40% OFF | [Towards AI Academy](https://academy.towardsai.net/bundles/get-it-all?ref=af681e) |
+| System Design & AI | Coding Gopher | 40% OFF | [Coding Gopher](https://codinggopher.com/?ref=javarevisited) |
 
 ---
 
@@ -41,7 +49,7 @@ A curated list of the best learning platforms, developer tools, interview prep r
 Why join: Best visual system design content for backend and distributed systems.
 
 ### 2. **[Codemia Lifetime Plan — 60% OFF](https://codemia.io/pricing?via=javarevisited)**
-Why join: Structured coding interview prep with clean progress tracking.
+Why join: Structured coding and system design interview prep with clean progress tracking.
 
 ### 3. **[Exponent Annual Plan — 70% OFF](https://www.tryexponent.com/upgrade/?ref=javinpaul2)**
 Why join: Strongest platform for mock interviews and FAANG interview coaching.
@@ -100,9 +108,23 @@ Why join: Elite frontend & JavaScript training from industry experts.
 ### 21. **[Whizlabs — 70% OFF](https://shareasale.com/r.cfm?b=413930&u=880419&m=43514&urllink=https%3A%2F%2Fwww%2Ewhizlabs%2Ecom%2F&afftrack=)**
 Why join: Hands-on labs and certifications for AWS, Azure, DevOps, and GCP.
 
+### 22. **[Fenzo.ai — Special Black Friday Offer](https://fenzo.ai/?ref=YdO7)**
+Why join: Accelerate AI-assisted workflows and productivity with tooling built for modern builders.
 
+### 23. **[ExpertEdge by Packt — 50% OFF](https://www.expertedge.org/?utm_source=javarevisited&utm_medium=blog)**
+Why join: Curated technical books, video courses, and AI-assisted learning for senior engineers.
 
----
+### 24. **[FirstPromoter — 50% OFF](https://firstpromoter.com/?fpr=9riekb)**
+Why join: Launch and scale an affiliate or referral program for your developer SaaS or course.
+
+### 25. **[Top Developer Academy — iSAQB® CPSA-F Training — 20% OFF](https://topdeveloperacademy.com/certified-professional-for-software-architecture-foundational-level-training-cpsa-f?fpr=javarevisited)**
+Why join: Practical self-paced training for the globally recognized iSAQB® software architecture certification.
+
+### 26. **[Towards AI Academy — Get It All Bundle — 40% OFF](https://academy.towardsai.net/bundles/get-it-all?ref=af681e)**
+Why join: End-to-end AI engineering curriculum covering LLMs, RAG, fine-tuning, and agents (Use code **`BLACKFRIDAY`**).
+
+### 27. **[Coding Gopher — 40% OFF](https://codinggopher.com/?ref=javarevisited)**
+Why join: Fast-paced, visual courses on system design and AI engineering.
 
 
 ---
